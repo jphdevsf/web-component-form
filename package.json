@@ -1,0 +1,16 @@
+{
+  "name": "web-component-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "biome check",
+    "format": "biome check --write"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@biomejs/biome": "^2.4.16"
+  }
+}
