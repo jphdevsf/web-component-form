@@ -1,6 +1,6 @@
 # Randomization Form
 
-A small vanilla JS web component project for picking and shuffling items from a list. Built as a personal exercise to get more comfortable with web components, the `@scope` CSS pseudo-class, the JS Popover API, and form patterns.
+A small vanilla JS web component project for picking and shuffling items from a list. Built as a personal exercise to get more comfortable with web components, the `@scope` CSS pseudo-class, the JS Popover API, and form patterns. [See demo here](https://web-component-form.netlify.app/).
 
 ## What it does
 
